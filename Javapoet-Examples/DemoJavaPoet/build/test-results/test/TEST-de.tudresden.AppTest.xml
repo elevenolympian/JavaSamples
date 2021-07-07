@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.tudresden.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-07T16:12:12" hostname="zoint-Latitude-E6420" time="0.002">
+  <properties/>
+  <testcase name="testApp" classname="de.tudresden.AppTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

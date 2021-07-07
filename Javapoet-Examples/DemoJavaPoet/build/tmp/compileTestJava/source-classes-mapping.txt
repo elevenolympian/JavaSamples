@@ -1,0 +1,2 @@
+de/tudresden/AppTest.java
+ de.tudresden.AppTest
